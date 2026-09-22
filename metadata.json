@@ -1,0 +1,6 @@
+{
+  "name": "DashReels",
+  "description": "Stream trending short drama series and vertical micro-reels with unlocked VIP premium features, HD video playback, and episode tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
